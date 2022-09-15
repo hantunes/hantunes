@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Hugo Antunes, a Software Engineer in Portugal.
+I am Hugo Antunes, a Software Engineer working from Portugal.
 
 <!--
 **hantunes/hantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
